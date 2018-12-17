@@ -2,7 +2,7 @@
 Extract formula in LaTeX from inkml
 
 # Guide
-inkML file should contain ```<annotation type="true">$ LaTeX formula $</annotation> ```<br>
+inkML file should contain ```<annotation type="true">LaTeX formula</annotation> ```<br>
 Database from CROHME, in which training data & test data with ground truth(testGT) already contain the thing above<br>
 NOTE: data in directory CROHME_test does NOT contain any annotation, but pure coordinates<br>
 
